@@ -3,5 +3,5 @@
 
 ## Technology
 - Java Spring Boot for backend activities. 
-- Database: Use local Mongodb server, run in a docker image. Manage databse with Mongodb Compass.
+- Database: Use local Mongodb server, run in a docker image. Manage databse with Mongodb Express.
 - Bootstrap for frontend.
